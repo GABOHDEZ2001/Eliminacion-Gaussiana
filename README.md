@@ -6,3 +6,4 @@ El método de Gauss también se conoce como eliminación gaussiana. Este método
 </p>
 
 ### Ejemplo Java
+`Ejemplo1` : <https://github.com/GABOHDEZ2001/MetodoNewton-Raphson/blob/main/src/Ejemplos/Ejemplo1.java>
