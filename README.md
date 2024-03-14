@@ -1,8 +1,10 @@
 # Eliminacion-Gaussiana
 Ejemplo Eliminacion Gaussiana
 
-<p>
-El método de Gauss también se conoce como eliminación gaussiana. Este método es muy importante, ya que te permite resolver matrices de una manera sistemática y siguiendo un proceso paso por paso. Este método se utiliza en muchas áreas, que se apoyan en su increíble poder para resolver ecuaciones: ciencia, tecnología, economía e, incluso, ciencias sociales. 
+## Descripcion 
+El M´etodo de Eliminaci´on de Gauss consiste en utilizar reiteradas
+veces las propiedades de los sistemas lineales, que hemos visto anteriormente, para transformar un sistema de ecuaciones lineales en otro
+equivalente (con las mismas soluciones) pero que sea triangular.
 
 ### Ejemplo Java
 [Ejemplo 1](https://github.com/GABOHDEZ2001/EliminacionGaussiana/blob/main/EliminacionGaussiana.java)
